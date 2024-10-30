@@ -1,0 +1,207 @@
+# Copyright (C) 2021 Automattic
+# This file is distributed under the same license as the WooCommerce plugin.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: In3 Marketing Tool\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woocommerce\n"
+"POT-Creation-Date: 2024-03-17 15:54+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tallest\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.1\n"
+"X-Domain: woocommerce\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: src\n"
+"X-Poedit-SearchPathExcluded-2: postcss.config.js\n"
+"X-Poedit-SearchPathExcluded-3: webpack.config.js\n"
+"X-Poedit-SearchPathExcluded-4: package-lock.json\n"
+"X-Poedit-SearchPathExcluded-5: package.json\n"
+
+#: class-in3.php:28 class-in3.php:39
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: class-in3.php:159
+msgid "Press to select"
+msgstr ""
+
+#: class-in3.php:220 class-in3.php:221
+msgid "iDEAL in3 Marketing Tool"
+msgstr ""
+
+#: class-in3.php:243
+msgid "iDEAL in3 marketing tool"
+msgstr ""
+
+#: class-in3.php:270
+msgid "The marketing tool settings page"
+msgstr ""
+
+#: class-in3.php:436
+msgid "Activate the marketing tool on:"
+msgstr ""
+
+#: class-in3.php:443
+msgid "Click here to add locations"
+msgstr ""
+
+#: class-in3.php:444
+msgid "Product page"
+msgstr ""
+
+#: class-in3.php:446
+msgid "Cart page"
+msgstr ""
+
+#: class-in3.php:447
+msgid "Checkout page"
+msgstr ""
+
+#: class-in3.php:450
+msgid "The marketing tool will be displayed in the locations that you've selected above. Additionally, you can manually place the following shortcode on a WooCommerce product page to display the marketing tool at any position: <code>[in3]</code>"
+msgstr ""
+
+#: class-in3.php:455
+msgid "Enhanced compatibility mode for Gutenberg blocks"
+msgstr ""
+
+#: class-in3.php:462
+msgid "No"
+msgstr ""
+
+#: class-in3.php:463
+msgid "Yes"
+msgstr ""
+
+#: class-in3.php:466
+msgid "This setting lets you place a widget inside the Gutenberg \"add to cart\" block and turns off the usual WordPress hook. This makes sure the widget appears only within the block and avoids showing it twice on the product page."
+msgstr ""
+
+#: class-in3.php:471
+msgid "Choose the marketing tool appearance"
+msgstr ""
+
+#: class-in3.php:478
+msgid "Branded with iDEAL in3 logo and with label"
+msgstr ""
+
+#: class-in3.php:480
+msgid "Only label"
+msgstr ""
+
+#: class-in3.php:481
+msgid "Textual"
+msgstr ""
+
+#: class-in3.php:485
+msgid "Displaying theme"
+msgstr ""
+
+#: class-in3.php:492
+msgid "Light"
+msgstr ""
+
+#: class-in3.php:493
+msgid "Dark"
+msgstr ""
+
+#: class-in3.php:497
+msgid "Display as"
+msgstr ""
+
+#: class-in3.php:506
+msgid "Description text for info tooltip"
+msgstr ""
+
+#: class-in3.php:512 class-in3.php:650 class-in3.php:679 class-in3.php:730
+#: class-in3.php:775 includes/functions.php:75 includes/functions.php:280
+#: includes/functions.php:326
+msgid "Betaal de eerste termijn direct via iDEAL. De tweede en derde termijn betaal je binnen 30 en 60 dagen. Zonder rente, zonder BKR-registratie! Klik voor meer informatie"
+msgstr ""
+
+#: class-in3.php:518
+msgid "Min amount (euro)"
+msgstr ""
+
+#: class-in3.php:526
+msgid "The minimum amount from which the marketing tool will be visible"
+msgstr ""
+
+#: class-in3.php:529
+msgid "Max amount (euro)"
+msgstr ""
+
+#: class-in3.php:537
+msgid "The maximum amount from which the marketing tool will be visible"
+msgstr ""
+
+#: class-in3.php:542
+msgid "The chosen range is used for both the product price and the cart totals price"
+msgstr ""
+
+#: class-in3.php:569
+msgid "Settings saved!"
+msgstr ""
+
+#: class-in3.php:609
+msgid "Of 3x {{{bedrag}}}, 0% rente (i)"
+msgstr ""
+
+#: class-in3.php:610
+msgid "Of 3x {{{bedrag}}} zonder rente (i)"
+msgstr ""
+
+#: class-in3.php:611
+msgid "Of {{{bedrag}}} in 3 termijnen, 0% rente (i)"
+msgstr ""
+
+#: class-in3.php:612
+msgid "Of {{{bedrag}}} in 3 termijnen zonder rente (i)"
+msgstr ""
+
+#: class-in3.php:613
+msgid "Of in 3 termijnen, 0% rente (i)"
+msgstr ""
+
+#: class-in3.php:614
+msgid "Of in 3 termijnen zonder rente (i)"
+msgstr ""
+
+#: class-in3.php:624
+msgid "Of <strong>3x {{{bedrag}}}</strong>, 0% rente"
+msgstr ""
+
+#: class-in3.php:625
+msgid "Of <strong>3x {{{bedrag}}} zonder rente</strong>"
+msgstr ""
+
+#: class-in3.php:626
+msgid "Of <strong>{{{bedrag}}} in 3 termijnen</strong>, 0% rente"
+msgstr ""
+
+#: class-in3.php:627
+msgid "Of <strong>{{{bedrag}}} in 3 termijnen zonder rente</strong>"
+msgstr ""
+
+#: class-in3.php:628
+msgid "Of in <strong>3 termijnen</strong>, 0% rente"
+msgstr ""
+
+#: class-in3.php:629
+msgid "Of in <strong>3 termijnen zonder rente</strong>"
+msgstr ""
+
+#: class-in3.php:689
+msgid "Refresh preview"
+msgstr ""
+
+#: class-in3.php:791
+msgid "Settings"
+msgstr ""
